@@ -1,0 +1,10 @@
+node_modules
+dist
+test-results
+playwright-report
+.vite
+*.log
+.game-server.pid
+.game-server-output.log
+.game-server-error.log
+.game-server.pid
